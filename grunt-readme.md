@@ -9,7 +9,7 @@ $ sudo npm install
 $ sudo npm install load-grunt-tasks
 $ sudo npm install load-grunt-config
 
-While developing, run the following command in the HTML directory via Terminal:
+While developing, run the following command in the HTML directory via Terminal (Runs: Watch & CSS Compiler):
 $ grunt
 
 To Lint JS files, run: 
